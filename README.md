@@ -19,4 +19,4 @@ Some of the projects that I have made till now:-
 
 
 Here is my githb stats report:-  
-<img src="{https://github-readme-stats.vercel.app/api?username={souradeep852}}" />
+<img src="https://github-readme-stats.vercel.app/api?username=souradeep852"/>  
