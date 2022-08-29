@@ -23,4 +23,3 @@ Here is my githb stats report:-
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souradeep852"/>
 
-![](https://komarev.com/ghpvc/?username=souradeep852&label=PROFILE+VIEWS)
