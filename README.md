@@ -1,5 +1,5 @@
 # Hi! I am Souradeep :)  
-I am from India currently in my pre-final year doing my bachelors in Computer Science & Engineering, from Indian Institute of Technology, Guwahati.  
+I am from India currently working as a SDE-1 at a fintech startup called Piramal Finance for the last 7 months after graduating from IIT Guwahati with a Computer Science Bachelor's Degree
 Connect with me:-  
 📧karsouradeep2002@gmail.com
 :
